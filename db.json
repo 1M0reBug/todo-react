@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Learn React",
+      "done": false,
+      "deleted": false
+    },
+    {
+      "id": 1,
+      "title": "Make a fetch",
+      "done": false,
+      "deleted": true
+    },
+    {
+      "id": 2,
+      "title": "Display info",
+      "done": false,
+      "deleted": false
+    },
+    {
+      "id": 3,
+      "title": "Chill",
+      "done": false,
+      "deleted": false
+    }
+  ]
+}
